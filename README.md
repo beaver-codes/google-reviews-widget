@@ -4,7 +4,7 @@ A lightweight React component for embedding Google Reviews from [reviews.beaver.
 
 ## Demo
 
-![Google Reviews Widget Demo](./assets/GoogleReviewsWidget.gif)
+![Google Reviews Widget Demo](https://raw.githubusercontent.com/beaver-codes/google-reviews-widget/main/assets/GoogleReviewsWidget.gif)
 
 ## Installation
 
