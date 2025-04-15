@@ -14,7 +14,7 @@
   "author": "Your Name",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^17.0.0 || ^18.0.0"
+    "react": ">=16.8.0"
   },
   "devDependencies": {
     "@types/react": "^19.1.2",
