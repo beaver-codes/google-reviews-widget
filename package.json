@@ -1,0 +1,24 @@
+{
+  "name": "google-reviews-widget",
+  "version": "1.0.0",
+  "description": "React component for embedding Google Reviews from reviews.beaver.codes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}
