@@ -2,6 +2,10 @@
 
 A lightweight React component for embedding Google Reviews from [reviews.beaver.codes](https://reviews.beaver.codes).
 
+## Demo
+
+![Google Reviews Widget Demo](./assets/GoogleReviewsWidget.gif)
+
 ## Installation
 
 ```bash

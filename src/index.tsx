@@ -1,6 +1,10 @@
 import React, { useEffect } from 'react';
 
 interface Props {
+  /**
+   * The unique instance ID provided by reviews.beaver.codes.
+   * You can get one by signing up for a free trial at https://reviews.beaver.codes/
+   */
   instanceId: string;
 }
 
