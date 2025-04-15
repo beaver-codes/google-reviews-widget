@@ -1,5 +1,5 @@
-import GoogleReviewsWidget from "../../dist"
-import "./App.css" // We'll create this CSS file next
+import GoogleReviewsWidget from "google-reviews-widget"
+import "./App.css"
 
 function App() {
   return (
