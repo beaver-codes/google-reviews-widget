@@ -20,6 +20,10 @@ import GoogleReviewsWidget from 'google-reviews-widget';
 <GoogleReviewsWidget instanceId="your-instance-id" />
 ```
 
+## Quickstart
+
+For a step-by-step guide on setting up the widget, visit our [quickstart guide](https://beaver.codes/google-reviews/how-to-add-google-reviews-react/).
+
 ## License
 
 MIT
