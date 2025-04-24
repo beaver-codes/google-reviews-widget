@@ -1,6 +1,6 @@
 {
   "name": "google-reviews-widget",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React component for embedding Google Reviews from reviews.beaver.codes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
